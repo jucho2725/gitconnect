@@ -1,4 +1,7 @@
-// Local repo modification
+// Local repo modification=
+// For command line
+// GitHub modification
+// now it is merged together!
 
 print("hello world")
 print("this is jin")
